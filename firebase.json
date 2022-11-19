@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "bank-funix",
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
